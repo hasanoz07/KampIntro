@@ -20,6 +20,8 @@ namespace DegerVeReferansTipler
             sayilar2[0] = 999;
             //sayilar1[0] ?? 999
 
+            int sayi3 = 15;
+
 
         }
     }
