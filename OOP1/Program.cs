@@ -17,7 +17,7 @@ namespace OOP1
             ProductName = "Kalem", UnitPrice = 35};
 
 
-            //PascalCase   //CamelCase
+            //PascalCase   //camelCase
             ProductManager productManager = new ProductManager();
             productManager.Add(product1);
 

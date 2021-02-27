@@ -5,7 +5,7 @@ using System.Text;
 namespace Metotlar
 {
      class Urun
-    {//Property-ÖZelli
+    {//Property-ÖZellik
         public int Id { get; set; }
         public string Adi { get; set; }
         public double Fiyati { get; set; }

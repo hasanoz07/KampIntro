@@ -22,6 +22,7 @@ namespace Koleksiyonlar
             isimler2.Add("Tuncer");
             Console.WriteLine(isimler2[4]);
             Console.WriteLine(isimler2[0]);
+            
 
         }
     }
